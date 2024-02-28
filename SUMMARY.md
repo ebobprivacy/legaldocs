@@ -4,8 +4,8 @@
 
 ## app-1
 
-* [termini-e-condizioni](app-1/termini-e-condizioni.md)
 * [informativa-privacy](app-1/informativa-privacy.md)
+* [termini-e-condizioni](app-1/termini-e-condizioni.md)
 
 ## website-1
 
