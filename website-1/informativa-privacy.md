@@ -16,6 +16,16 @@ Il titolare ha nominato un Responsabile della Protezione dei Dati ...
 
 ...
 
+
+
+<details>
+
+<summary>Dati</summary>
+
+
+
+</details>
+
 ### Base giuridica del trattamento
 
 ...
