@@ -1,6 +1,4 @@
-# informativa-privacy
-
-## Informativa sul trattamento dei dati personali
+# Informativa Privacy
 
 La presente informativa, resa ai sensi del Regolamento (UE) 2016/679, descrive i trattamenti di dati personali degli utenti che navigano il sito web ... e non si estende ad altri siti web eventualmente consultabili mediante collegamenti ipertestuali, anche se gestiti dalla Società.
 

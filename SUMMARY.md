@@ -4,7 +4,7 @@
 
 ## app-1
 
-* [informativa-privacy](app-1/informativa-privacy.md)
+* [Informativa Privacy](app-1/informativa-privacy.md)
 * [termini-e-condizioni](app-1/termini-e-condizioni.md)
 
 ## website-1
