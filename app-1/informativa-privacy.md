@@ -6,7 +6,7 @@ La presente informativa, resa ai sensi del Regolamento (UE) 2016/679, descrive i
 
 ### Titolare del trattamento
 
-Il titolare del trattamento è ...
+Il titolare del trattamento è **Enrico Bob**
 
 ### Responsabile della Protezione dei Dati
 
