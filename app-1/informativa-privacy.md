@@ -1,6 +1,6 @@
 # Informativa Privacy
 
-La presente informativa, resa ai sensi del Regolamento (UE) 2016/679, descrive i trattamenti di dati personali degli utenti che navigano il sito web ... e non si estende ad altri siti web eventualmente consultabili mediante collegamenti ipertestuali, anche se gestiti dalla Società.
+La presente informativa, resa ai sensi del Regolamento (UE) 2016/679, descrive i trattamenti di dati personali degli utenti che navigano il sito web _**enricoferraris.it**_ e non si estende ad altri siti web eventualmente consultabili mediante collegamenti ipertestuali, anche se gestiti dalla Società.
 
 ### Titolare del trattamento
 
@@ -54,7 +54,7 @@ I dati personali relativi agli Utenti sono trattati per il tempo strettamente ne
 
 Nel rispetto dei principi di proporzionalità e necessità, i dati non sono conservati per periodi più lunghi rispetto a quelli indispensabili alla realizzazione delle finalità sopra indicate e dunque al diligente svolgimento delle attività, in particolare:
 
-**a.** i dati di navigazione sono conservati sotto forma di log per 90 giorni;
+**a.** i dati di navigazione sono conservati sotto forma di log per 60 giorni;
 
 **b.** i dati comunicati dall'Utente sono conservati per il tempo necessario a gestire la richiesta e, comunque, fino a 10 anni, termine di prescrizione ordinaria ai sensi dell'articolo 2946 c.c.
 
