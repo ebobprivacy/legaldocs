@@ -4,13 +4,14 @@ La presente informativa, resa ai sensi del Regolamento (UE) 2016/679, descrive i
 
 ### Titolare del trattamento
 
-Il titolare del trattamento è **Enrico Bob**
+Il titolare del trattamento è **Enrico Bob Ferraris**
 
 ### Responsabile della Protezione dei Dati
 
 Il titolare ha nominato un Responsabile della Protezione dei Dati (DPO), ai sensi dell’art. 37 del Regolamento, che può essere contattato ai seguenti recapiti:
 
-email: [email](mailto:dpo@dpo).
+email: [email](mailto:dpo@dpo).\
+PEC: [pec](mailto:pec@pec.it).
 
 ### Categorie di dati e finalità
 
